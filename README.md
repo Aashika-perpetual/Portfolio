@@ -35,8 +35,7 @@ Welcome to my **Personal Portfolio Website**, a fully responsive and animated we
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/f714d7dd-61f7-4ac8-9c3c-ff1ca13be680)
-
+![image](https://github.com/user-attachments/assets/ce108404-6690-4301-b687-951f3f19ea29)
 
 ## 📄 How to Use
 
